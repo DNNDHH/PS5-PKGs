@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "api_webbrowser_dialog", "api_webbrowser_dialog.vcxproj", "{E73015C0-4FB8-4ABD-99AD-D71C3497818B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DA6CDB7E-EC94-4F62-8A25-6ED58893A6CE} = {DA6CDB7E-EC94-4F62-8A25-6ED58893A6CE}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libSceSampleUtil", "..\..\common\source\sampleutil\libSceSampleUtil.vcxproj", "{DA6CDB7E-EC94-4F62-8A25-6ED58893A6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Prospero = Debug|Prospero
+		Release|Prospero = Release|Prospero
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73015C0-4FB8-4ABD-99AD-D71C3497818B}.Debug|Prospero.ActiveCfg = Debug|Prospero
+		{E73015C0-4FB8-4ABD-99AD-D71C3497818B}.Debug|Prospero.Build.0 = Debug|Prospero
+		{E73015C0-4FB8-4ABD-99AD-D71C3497818B}.Release|Prospero.ActiveCfg = Release|Prospero
+		{E73015C0-4FB8-4ABD-99AD-D71C3497818B}.Release|Prospero.Build.0 = Release|Prospero
+		{DA6CDB7E-EC94-4F62-8A25-6ED58893A6CE}.Debug|Prospero.ActiveCfg = Debug|Prospero
+		{DA6CDB7E-EC94-4F62-8A25-6ED58893A6CE}.Debug|Prospero.Build.0 = Debug|Prospero
+		{DA6CDB7E-EC94-4F62-8A25-6ED58893A6CE}.Release|Prospero.ActiveCfg = Release|Prospero
+		{DA6CDB7E-EC94-4F62-8A25-6ED58893A6CE}.Release|Prospero.Build.0 = Release|Prospero
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B61733-4189-4AC5-84B8-8BF9B84B001F}
+	EndGlobalSection
+EndGlobal
