@@ -2,7 +2,7 @@
 <psproject fmt="gp5" version="1000">
 	<volume>
 		<volume_type>prospero_app</volume_type>
-		<package passcode="12345678923456789102123901202230"/>
+		<package passcode="12345678923456789102123901202333"/>
 		<chunk_info chunk_count="1" scenario_count="1">
 			<chunks>
 				<chunk id="0" label="Chunk #0"/>
