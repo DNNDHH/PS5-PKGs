@@ -1,0 +1,52 @@
+{
+  "addcont": {
+    "serviceIdForSharing": [
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   "
+    ]
+  },
+  "appType": 0,
+  "applicationCategoryType": 0,
+  "applicationDrmType": "free", 
+  "attribute": you customize,
+  "attribute2": you customize,
+  "attribute3": you customize,
+  "conceptId": "you customize",
+  "contentBadgeType": 0,
+  "contentLocation": you customize,
+  "contentId": "IV9999-PPSX40000_00-XXXXXXXXXXXXXXXX",
+  "contentVersion": "01.000.000",
+  "deeplinkUri": "https://www.google.com",
+  "downloadDataSize": you customize,
+  "descriptions": "https://www.google.com" ,
+  "localizedParameters": {
+    "defaultLanguage": "en-US",
+    "en-US": {
+      "titleName": "you customize"
+    }
+  },
+  "kernel": {
+    "flexibleMemorySize": you customize
+  },
+  "masterVersion": "02.10",
+  "pubtools": {
+    "creationDate": "2024-01-07 01:33:11",
+    "loudnessSnd0": "-30.19",
+    "toolVersion": "1.21"
+  },
+  "requiredSystemSoftwareVersion": "0x0000000000000000",
+  "sdkVersion": "0x0000000000000000",
+  "titleId": "PPSX40000",
+  "uninstallable": 0,
+  "displayLocation": you customize,
+  "userDefinedParam1": 0,
+  "userDefinedParam2": 0,
+  "userDefinedParam3": 0,
+  "userDefinedParam4": 0,
+  "versionFileUri": "you customize"
+}

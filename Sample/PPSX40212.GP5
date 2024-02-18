@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<psproject fmt="gp5" version="1000">
+	<volume>
+		<volume_type>prospero_app</volume_type>
+		<package passcode="12345678923456789102123901202230"/>
+		<chunk_info chunk_count="1" scenario_count="1">
+			<chunks>
+				<chunk id="0" label="Chunk #0"/>
+			</chunks>
+			<scenarios default_id="0">
+				<scenario id="0" initial_chunk_count="1" label="Scenario #0" type="playmode">0</scenario>
+			</scenarios>
+		</chunk_info>
+	</volume>
+	<files>
+		<file dst_path="sce_sys\icon0.png" src_path="C:??????\PackageFileCache\sce_sys\icon0.png"/>
+		<file dst_path="sce_sys\param.json" src_path="C:??????\PackageFileCache\sce_sys\param.json"/>
+		<file dst_path="eboot.bin" src_path="C:??????\PackageFileCache\eboot.bin"/>
+
+
+	</files>
+</psproject>
